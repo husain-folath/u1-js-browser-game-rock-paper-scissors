@@ -9,11 +9,11 @@ Open your Terminal application and navigate to your `~/code/ga/lectures` directo
 cd ~/code/ga/lectures
 ```
 
-Make a new directory called `javascript-browser-game-rock-paper-scissors`, then enter this directory:
+Make a new directory called `js-browser-game-rock-paper-scissors`, then enter this directory:
 
 ```bash
-mkdir javascript-browser-game-rock-paper-scissors
-cd javascript-browser-game-rock-paper-scissors
+mkdir js-browser-game-rock-paper-scissors
+cd js-browser-game-rock-paper-scissors
 ```
 
 Then, create an `app.js` and an `index.html` file. These files will hold your work for this lecture:
